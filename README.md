@@ -328,5 +328,4 @@ Y finalmente pude subir el archivo pdf de 355Mb
 
 - [Instalación de Docker en Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
 - [Instalación de Docker Compose](https://docs.docker.com/compose/install/linux/)
-- https://x.com/i/grok/share/tH6HoC7WviuwPxoWsYOiIuNT9
-- https://x.com/i/grok/share/06OTVve7S44qUyXfaZjc06JXW
+- https://grok.com/
