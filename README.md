@@ -168,7 +168,7 @@ nginx:
     depends_on:
       - wordpress
 ```
-#### Finalmente pude acceder al localhost, instalar WordPress, personalizar la página y también eliminar los contenedores con la persistencia de los datos.Con el siguiente archivo yaml modificado:
+#### Finalmente pude acceder al localhost, instalar WordPress, personalizar la página y también eliminar los contenedores con la persistencia de los datos. Con el siguiente archivo yaml modificado:
 
 ## Docker Compose Ubuntu 24.04 
 ```yaml
@@ -320,7 +320,9 @@ Y finalmente pude subir el archivo pdf de 355Mb
 ```
 ...
 
-## 🔗 Referencias
+## Referencias
 
 - [Instalación de Docker en Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
 - [Instalación de Docker Compose](https://docs.docker.com/compose/install/linux/)
+- https://x.com/i/grok/share/tH6HoC7WviuwPxoWsYOiIuNT9
+- https://x.com/i/grok/share/06OTVve7S44qUyXfaZjc06JXW
