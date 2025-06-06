@@ -1,10 +1,11 @@
 
 # Despliegue de WordPress y Base de Datos con Docker
 
-Autor: Alejandro Toloza  
-Versión: 3.1  
-Sistema operativo: Linux Lite 7.2   
-Referencia: [Tutorial de El Pelado Nerd](https://www.youtube.com/watch?v=eoFxMaeB9H4&list=PLqRCtm0kbeHAep1hc7yW-EZQoAJqSTgD-&index=5)
+#### Autor: Alejandro Toloza  
+#### Versión: 3.1  
+#### Sistema operativo: Linux Lite 7.2. 
+#### Entorno: Notebook Lenovo (Intel dual core 2020 2.4Ghz  4gb)
+#### Referencia: [Tutorial de El Pelado Nerd](https://www.youtube.com/watch?v=eoFxMaeB9H4&list=PLqRCtm0kbeHAep1hc7yW-EZQoAJqSTgD-&index=5)
 
 ## Docker Compose básico
 
@@ -38,7 +39,10 @@ services:
 ![image](https://github.com/user-attachments/assets/1d8b9015-f621-4e53-9773-48ef042b777e)
 
 
-## Mas allá de correr sin problemas en Linux Lite quise probarlo en Ubuntu 24.04
+### Mas allá de correr sin problemas en Linux Lite quise probarlo en Ubuntu 24.04
+#### Sistema Operativo: Ubuntu 24.04.
+#### Entorno: CPU I5-2500K 3.3GHZ 16 GB DDR3
+
 ### Configurar el repositorio apt de Docker. Agregar la clave GPG oficial de Docker:
 
 ```
